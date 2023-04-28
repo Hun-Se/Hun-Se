@@ -8,4 +8,4 @@
 ## 💻 ...
 <a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a> <a href = "https://for-it-study.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
-</a> <a href = "https://guttural-eyebrow-89d.notion.site/cfc360a8a0984eafbb85f7dd4696b943"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> 
+</a> <a href = "https://guttural-eyebrow-89d.notion.site/78c2a1e3c5a24171af843e63e5407b33"> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> 
